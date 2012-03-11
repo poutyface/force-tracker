@@ -7,3 +7,7 @@ Environment
 OSX Lepard (with MacBook Pro front camera) 
 OpenCV 2.3.1a (installed by homebrew)
 
+
+Build & Run
+============
+$ make run
